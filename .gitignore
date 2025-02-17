@@ -2,6 +2,7 @@
 # Intellij
 ######################
 .idea/
+APP/Demo/.idea/*
 *.iml
 *.iws
 *.ipr
