@@ -15,7 +15,7 @@ android {
         vectorDrawables.useSupportLibrary = true
         applicationId 'com.aliqin.mytel'
         buildConfigField "boolean", "NeedLogger", 'true'
-        buildConfigField "String", "AUTH_SECRET", '"请填入您的密钥"'
+        buildConfigField "String", "AUTH_SECRET", '"HM+TFp23MnmaoQmY6/4HiBLVvBsZEHYR1+sCydQ/jvZsObiy+s7nQ+lPKeJ6wvmqS/2BUhAqxLttejjOVGINjLcHJdQxQR28hSH51oIUj18jycwMbCc6tVdx/QQOoNn8MemtmFT07DFKsXXW2r/47gg/EWHktrxrLnT6Kp4arOjNFJZvB9FBYdsNQWfeG1+TklHgoU9FVDF2V6jXvfrTbD7uot5hi1WNTizq0Rh8E4MzZZ8ivIKWswRD3QVqwMfpmuQyfnZUGhU+NR6yuQQ5j9rFPeQUC4XZB6n3ZFq5vRQ="'
     }
 
     
